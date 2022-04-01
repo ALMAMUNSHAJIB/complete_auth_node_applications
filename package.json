@@ -4,8 +4,8 @@
   "description": "auth applications ",
   "main": "app.js",
   "scripts": {
-   "start": "node app",
-   "dev": "nodemon app"
+    "start": "node app",
+    "dev": "nodemon app"
   },
   "author": "almamun",
   "type": "module",
